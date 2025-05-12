@@ -1,1 +1,1 @@
-tutorial for deepl learning 
+tutorial for deep learning 
